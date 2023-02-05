@@ -1,1 +1,1 @@
-# Discord-Boost-Bot
+# Discord Boost Bot
